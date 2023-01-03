@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: powderblue;
+	text-align: center;
+	margin-top: 250px;
+	font-family: "Gill Sans", sans-serif;
+}
+#para1 {
+	margin: 10px;
+}
